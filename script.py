@@ -1,1 +1,1 @@
-print("Hello, Data Lab!")
+# Це мій перший скрипт\nprint("Hello, Data Lab")
